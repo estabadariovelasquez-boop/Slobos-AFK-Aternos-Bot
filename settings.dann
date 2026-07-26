@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "Murdorack-y88v.aternos.me",
+    "port": 45716,
+    "version": 1.26.34.3,
     "try-creative": false
   },
   "position": {
